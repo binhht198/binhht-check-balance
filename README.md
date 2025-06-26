@@ -2,3 +2,4 @@
 ```bash
 npm binhht-check-balance
 ```
+Commit 1 line
